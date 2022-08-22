@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Md Ehtesham casceding sheet( Css )</title>
+    <link rel="stylesheet" href ="style.css">
+</head>
+<body>
+    <img src="photo-15.jpg" class="banner">
+    <div class="banner"></div>
+    <div class="Navbar"></div>
+    <div>
+    <ul>
+        <li><a href="#">Home</a></li>
+        <li><a href="#">Bedroom</a></li>
+        <li><a href="#">Booking</a></li>
+        <li><a href="#">Table</a></li>
+        <li><a href="#">Floor</a></li>
+    </ul>
+    </div>
+    <h1>Login</h1>
+<form method="post">
+    <div class="txt_field">
+        <input type="text" required>
+        <label>username</label>
+    </div>
+    <div class="txt_field">
+        <input type="text" required>
+        <label>password</label>
+    </div>
+
+
+
+
+
+
+
+    <img src="logo.webp" class="logo">
+    <div class="centre"></div>
+    <div class="navbar ul li"></div>
+    <div class="navbar ul li a"></div>
+
+    <div class="centre">
+
+    
+</form>
+
+    </div>
+    <div>
+    
+    </div>
+</body>
+</html>
